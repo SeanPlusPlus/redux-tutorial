@@ -1,7 +1,7 @@
 {
-  "name": "js-stack-from-scratch",
+  "name": "redux-tutorial",
   "version": "1.0.0",
-  "description": "JavaScript Stack from Scratch - Step-by-step tutorial to build a modern JavaScript stack",
+  "description": "JavaScript Stack with Redux",
   "scripts": {
     "start": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -42,7 +42,7 @@
     "redux-devtools": "^3.3.1",
     "redux-logger": "^2.7.4"
   },
-  "repository": "verekia/js-stack-from-scratch",
-  "author": "Jonathan Verrecchia - @verekia",
+  "repository": "SeanPlusPlus/redux-tutorial",
+  "author": "@SeanPlusPlus",
   "license": "MIT"
 }
